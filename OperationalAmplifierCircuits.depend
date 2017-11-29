@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1509102261 source:c:\users\jenni\desktop\year 2\computer programming\lab exercises\8. operational amplifier circuits\operationalamplifiercircuits\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdio>
+	<windows.h>
+	<math.h>
+
+1509548608 source:d:\computer programming\lab exercises\8. operational amplifier circuits\operationalamplifiercircuits\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdio>
+	<windows.h>
+	<math.h>
+
